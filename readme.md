@@ -37,3 +37,12 @@ Through our analysis, we were able to identify the provinces and sectors with th
 Our report has the potential to inform decision-making by organizations and individuals working in the field, helping them allocate resources more effectively and efficiently. Overall, this project has the potential to make a meaningful impact on the lives of those affected by humanitarian crises in the DRC.
 
 ## Dashboard
+Our dashboard provides a comprehensive overview of the humanitarian situation in the DRC, focusing on the number of actors, targets, and projects working to alleviate humanitarian crises. Using Power BI, we have created interactive visualizations that help to illustrate the data in an informative and user-friendly way.
+
+One of the key features of our dashboard is a map of the DRC that shows the number of actors working on humanitarian projects in each province. This visualization provides a high-level overview of the distribution of actors, allowing users to identify areas that may require additional support.
+
+We also included visualizations that display the number of projects by province. This helps users to understand where the most support is being directed and which areas may be under-resourced. These visualizations can help organizations and individuals to make more informed decisions about where to allocate resources and focus their efforts.
+
+To provide a more detailed view of the data, we have included a decomposition tree for targets by province and territory. This allows users to drill down into the specific targets being addressed by humanitarian projects in each province and territory, providing valuable insights into the types of assistance being provided.
+
+The dashboard is a useful tool for organizations and individuals working in the field of humanitarian assistance in the DRC. By providing a comprehensive and interactive view of the data, it can help users to make more informed decisions about where to focus their efforts and allocate resources, ultimately making a positive impact on the lives of those affected by humanitarian crises in the country.
