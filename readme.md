@@ -66,3 +66,10 @@ This analysis provides valuable insights into the complex factors that contribut
 
 By identifying which factors are driving changes in target numbers, users can make more informed decisions about where to focus their efforts and allocate resources. This can help organizations and individuals to be more effective in their work and make a positive impact on the lives of those affected by humanitarian crises in the country.
 ![Key Influancer](./Pictures/KI.png)
+
+## Projects Details 
+This section provides valuable insights into the characteristics of NGOs operating in the DRC and their contributions to humanitarian projects in the country. By breaking down the data by international and national NGOs, users can gain a better understanding of the different types of organizations working in the region and the different approaches they may take.
+
+The analysis of project counts that remained constant between February 2022 and March 2027 is also an important tool for understanding the state of humanitarian projects in the DRC over time. By identifying which projects remained constant during this period, users can gain insights into which projects are most stable and have the greatest potential for long-term success.
+
+The third section provides valuable insights into the characteristics of NGOs operating in the DRC and the state of humanitarian projects in the country over time. By breaking down the data by international and national NGOs and analyzing project counts over time, users can gain a more nuanced understanding of the humanitarian situation in the country and make more informed decisions about where to focus their efforts and allocate resources.
