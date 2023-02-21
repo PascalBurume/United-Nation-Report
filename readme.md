@@ -75,3 +75,6 @@ The analysis of project counts that remained constant between February 2022 and 
 The third section provides valuable insights into the characteristics of NGOs operating in the DRC and the state of humanitarian projects in the country over time. By breaking down the data by international and national NGOs and analyzing project counts over time, users can gain a more nuanced understanding of the humanitarian situation in the country and make more informed decisions about where to focus their efforts and allocate resources.
 
 ![Projects informations](./Pictures/PD.png)
+
+## Link to the dashboard
+[United Nation ](https://app.powerbi.com/view?r=eyJrIjoiY2Q1ZTBmOTctYzJkZC00YWJhLWFiNjgtYzVkZGJmMGUyOTgyIiwidCI6ImQyMzViNDFjLTVlZTktNGM2MC1iY2ZmLWQ2OGZlM2JmZjZhMCIsImMiOjN9)
