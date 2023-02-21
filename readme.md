@@ -57,3 +57,5 @@ The visualization that displays the number of projects with actors by cluster of
 
 The province with target information is also valuable, as it helps users to understand where the assistance is being directed and which areas may require additional support. This information can help organizations and individuals to make more informed decisions about where to focus their efforts and allocate resources.
 
+![Report](./Pictures/Report.png)
+
