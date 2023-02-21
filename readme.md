@@ -73,3 +73,5 @@ This section provides valuable insights into the characteristics of NGOs operati
 The analysis of project counts that remained constant between February 2022 and March 2027 is also an important tool for understanding the state of humanitarian projects in the DRC over time. By identifying which projects remained constant during this period, users can gain insights into which projects are most stable and have the greatest potential for long-term success.
 
 The third section provides valuable insights into the characteristics of NGOs operating in the DRC and the state of humanitarian projects in the country over time. By breaking down the data by international and national NGOs and analyzing project counts over time, users can gain a more nuanced understanding of the humanitarian situation in the country and make more informed decisions about where to focus their efforts and allocate resources.
+
+![Projects informations](./Pictures/PD.png)
