@@ -59,3 +59,9 @@ The province with target information is also valuable, as it helps users to unde
 
 ![Report](./Pictures/Report.png)
 
+## Key Influencer 
+The key influencer analysis section is designed to help users understand the factors that are contributing to changes in target numbers for humanitarian projects in the DRC. By analyzing various fields such as name of actors, name of clusters, and name of projects, the analysis identifies which factors are having the greatest impact on target numbers.
+
+This analysis provides valuable insights into the complex factors that contribute to the success of humanitarian projects in the DRC. For example, it may reveal that certain actors or clusters are particularly effective in achieving targets, or that certain projects are more successful than others.
+
+By identifying which factors are driving changes in target numbers, users can make more informed decisions about where to focus their efforts and allocate resources. This can help organizations and individuals to be more effective in their work and make a positive impact on the lives of those affected by humanitarian crises in the country.
