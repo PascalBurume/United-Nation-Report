@@ -78,3 +78,5 @@ The third section provides valuable insights into the characteristics of NGOs op
 
 ## Link to the dashboard
 [United Nation ](https://app.powerbi.com/view?r=eyJrIjoiY2Q1ZTBmOTctYzJkZC00YWJhLWFiNjgtYzVkZGJmMGUyOTgyIiwidCI6ImQyMzViNDFjLTVlZTktNGM2MC1iY2ZmLWQ2OGZlM2JmZjZhMCIsImMiOjN9)
+## PBIX file
+You can download the sample report UN on the pictures folder
