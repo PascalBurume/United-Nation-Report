@@ -49,3 +49,11 @@ To provide a more detailed view of the data, we have included a decomposition tr
 
 
 The dashboard is a useful tool for organizations and individuals working in the field of humanitarian assistance in the DRC. By providing a comprehensive and interactive view of the data, it can help users to make more informed decisions about where to focus their efforts and allocate resources, ultimately making a positive impact on the lives of those affected by humanitarian crises in the country.
+
+## Report 
+The second section provides more detailed information on cluster and target, focusing on the number of projects with actors by cluster of project, as well as the province with the target. These visualizations give users a deeper understanding of the types of projects being carried out, the actors involved, and the locations where they are taking place.
+
+The visualization that displays the number of projects with actors by cluster of project is a useful tool for identifying which clusters are receiving the most support. This information can help organizations and individuals to make informed decisions about where to allocate resources and where more assistance may be needed.
+
+The province with target information is also valuable, as it helps users to understand where the assistance is being directed and which areas may require additional support. This information can help organizations and individuals to make more informed decisions about where to focus their efforts and allocate resources.
+
