@@ -15,3 +15,14 @@ Some of the ongoing projects and initiatives led by OCHA in the DRC include:
 4. Disease prevention and control: OCHA works with the World Health Organization (WHO) and other partners to prevent and control the spread of diseases like Ebola and COVID-19.
 
 5. Supporting the most vulnerable: OCHA works to support the most vulnerable populations in the DRC, including refugees, internally displaced persons, and host communities.
+
+# Power BI 
+Power BI can be a powerful tool in the context of humanitarian work, where organizations often have to make critical decisions based on complex data sets. By using Power BI, humanitarian organizations can gain insights into their programs and activities, and better understand the impact of their interventions.
+
+Some specific applications of Power BI in humanitarian work include:
+
+1. Monitoring and evaluation: Power BI can be used to track and analyze key performance indicators (KPIs) for humanitarian programs. By visualizing data in real-time, organizations can quickly identify trends and adjust their programs accordingly.
+
+2. Resource allocation: Power BI can help humanitarian organizations optimize the allocation of their resources, such as funds, personnel, and supplies. By analyzing data on needs and demand, organizations can prioritize their interventions and ensure that resources are allocated effectively.
+
+3. Communication and reporting: Power BI can be used to create interactive dashboards and reports that can be shared with donors, partners, and other stakeholders. By presenting data in a clear and compelling way, organizations can communicate their impact and build support for their work.
