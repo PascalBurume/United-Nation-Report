@@ -45,4 +45,7 @@ We also included visualizations that display the number of projects by province.
 
 To provide a more detailed view of the data, we have included a decomposition tree for targets by province and territory. This allows users to drill down into the specific targets being addressed by humanitarian projects in each province and territory, providing valuable insights into the types of assistance being provided.
 
+![Dashboard](./Pictures/Dashboard.png)
+
+
 The dashboard is a useful tool for organizations and individuals working in the field of humanitarian assistance in the DRC. By providing a comprehensive and interactive view of the data, it can help users to make more informed decisions about where to focus their efforts and allocate resources, ultimately making a positive impact on the lives of those affected by humanitarian crises in the country.
