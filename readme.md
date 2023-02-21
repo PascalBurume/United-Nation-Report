@@ -65,3 +65,4 @@ The key influencer analysis section is designed to help users understand the fac
 This analysis provides valuable insights into the complex factors that contribute to the success of humanitarian projects in the DRC. For example, it may reveal that certain actors or clusters are particularly effective in achieving targets, or that certain projects are more successful than others.
 
 By identifying which factors are driving changes in target numbers, users can make more informed decisions about where to focus their efforts and allocate resources. This can help organizations and individuals to be more effective in their work and make a positive impact on the lives of those affected by humanitarian crises in the country.
+![Key Influancer](./Pictures/KI.png)
