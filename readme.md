@@ -26,3 +26,14 @@ Some specific applications of Power BI in humanitarian work include:
 2. Resource allocation: Power BI can help humanitarian organizations optimize the allocation of their resources, such as funds, personnel, and supplies. By analyzing data on needs and demand, organizations can prioritize their interventions and ensure that resources are allocated effectively.
 
 3. Communication and reporting: Power BI can be used to create interactive dashboards and reports that can be shared with donors, partners, and other stakeholders. By presenting data in a clear and compelling way, organizations can communicate their impact and build support for their work.
+
+# United Nation Report OCHA DRC
+Our project focuses on developing a report on the number of humanitarian projects in the DRC, their distribution across provinces and sectors, as well as the number of targets and actors by province, project, and sector. We collected the necessary data from the OCHA website, a reliable source of information on humanitarian projects worldwide.
+
+To analyze the data, we used Power BI, a powerful data analytics and visualization tool. By leveraging Power BI's capabilities, we were able to create interactive visualizations that highlight trends and patterns in the data, helping us gain valuable insights into the state of humanitarian projects in the DRC.
+
+Through our analysis, we were able to identify the provinces and sectors with the greatest need for humanitarian assistance. We also explored correlations between different variables, such as the number of projects and population size, providing a more nuanced understanding of the situation.
+
+Our report has the potential to inform decision-making by organizations and individuals working in the field, helping them allocate resources more effectively and efficiently. Overall, this project has the potential to make a meaningful impact on the lives of those affected by humanitarian crises in the DRC.
+
+## Dashboard
